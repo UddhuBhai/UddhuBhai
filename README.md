@@ -32,12 +32,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/your-username/UddhuBhai/blob/output/github-contribution-grid-snake.svg)
-
----
-
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
