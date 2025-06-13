@@ -5,7 +5,7 @@
 
 ---
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=UddhuBhai.UddhuBhai)
+![Profile views](https://komarev.com/ghpvc/?username=UddhuBhai&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
