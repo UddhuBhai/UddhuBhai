@@ -1,43 +1,157 @@
-# 👋 Hi, I'm Uddhav Matholia
+<h1 align="center">👑 両面宿儺 👑</h1>
 
-🎓 Computer Science Engineering student  
-💻 Passionate about tech, code & building things that matter.
+<h3 align="center">
+"Throughout GitHub and Stack Overflow, I alone am the bugged one."
+</h3>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=24&duration=3500&pause=1000&center=true&vCenter=true&color=8B0000&width=800&lines=Computer+Science+Sorcerer;King+of+Random+Projects;Professional+Bug+Summoner;Domain+Expansion:+Infinite+Console.logs();Building+Things+Nobody+Asked+For" />
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=UddhuBhai&label=Profile%20views&color=0e75b6&style=flat)
-
----
-
-## 💻 Tech Stack
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=UddhuBhai&label=Cursed+Visitors&color=8B0000&style=for-the-badge"/>
+</p>
 
 ---
 
-## 🚀 Goals I'm Working On
+# 🩸 DOMAIN EXPANSION : MALEVOLENT REPOSITORY
 
-- 🔧 Mastering C and SQL  
-- 🧠 Strengthening problem-solving and DSA  
-- 💡 Building fun and useful side-projects  
-- 🧪 Contributing to open-source  
-- 👨‍💻 Participating in hackathons and coding contests  
+```java
+public class Uddhav {
+
+    public static void main(String[] args) {
+
+        while(alive){
+
+            code();
+
+            createRandomProject();
+
+            fixOneBug();
+
+            createThreeMoreBugs();
+
+            repeat();
+
+        }
+
+    }
+
+}
+```
+
+> "If the code compiles, it's someone else's problem now."
 
 ---
 
-## 📊 GitHub Stats
+# ⚔️ Cursed Techniques
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=UddhuBhai&theme=radical&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UddhuBhai&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=UddhuBhai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=8B0000&icon_color=8B0000"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UddhuBhai&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=8B0000"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=UddhuBhai&theme=tokyonight&hide_border=true&background=000000&ring=8B0000&fire=8B0000&currStreakLabel=8B0000"/>
+
+</p>
 
 ---
 
+# 🐍 Curse That Consumes Contributions
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UddhuBhai/UddhuBhai/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UddhuBhai/UddhuBhai/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/UddhuBhai/UddhuBhai/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</p>
 
+---
 
+# 📜 Sorcerer Status
 
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🩸 Name            :: Uddhav Matholia
+
+⚡ Rank            :: Grade 1 Developer
+
+💀 Domain          :: Web Development
+
+🔥 Current Boss    :: DSA
+
+🧠 Intelligence    :: High
+
+😴 Sleep           :: -10 HP
+
+☕ Coffee          :: MAX LEVEL
+
+🐛 Bugs Created    :: 999+
+
+✅ Bugs Fixed      :: 2
+
+🎯 Motivation      :: ████████░░ 80%
+
+📚 Tutorial Tabs   :: 47
+
+🟢 Side Projects   :: Always spawning...
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+# 🎴 Current Quests
+
+- ⚔️ Defeat the Pointer Curse (C)
+- 🏯 Learn SQL Reverse Cursed Technique
+- 🧩 Reach LeetCode enlightenment
+- 🌍 Conquer Open Source
+- 🚀 Build projects that make recruiters say "Wait..."
+
+---
+
+# 💀 Special Moves
+
+```
+███████████████████░░░░░
+
+Console.log() Spam      ██████████
+
+Copy from StackOverflow ███████░░░
+
+Reading Documentation   ██░░░░░░░░
+
+Making Memes            ██████████
+
+Debugging               ████░░░░░░
+
+Touching Grass          ░░░░░░░░░░
+
+███████████████████░░░░░
+```
+
+---
+
+<div align="center">
+
+## 👑 Ryomen Sukuna's Programming Philosophy
+
+> "Strong developers don't fear bugs.
+>
+> They simply create stronger bugs."
+
+---
+
+### ⭐ If you like my projects...
+
+**Leave a star before the curse reaches your repository.**
+
+</div>
